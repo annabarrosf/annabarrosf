@@ -4,8 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "build": "echo \"build\" && exit 0",
     "ci": "echo \"ci\" && exit 0",
-
     "cd": "echo \"cd\" && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
