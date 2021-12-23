@@ -1,7 +1,7 @@
 {
   "name": "annabarrosf",
   "version": "0.0.0",
-  "description": "��#\u0000 \u0000a\u0000n\u0000n\u0000a\u0000b\u0000a\u0000r\u0000r\u0000o\u0000s\u0000f\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "ci": "echo \"ci\" && exit 0",
