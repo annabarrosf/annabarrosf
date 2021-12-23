@@ -1,0 +1,22 @@
+{
+  "name": "annabarrosf",
+  "version": "0.0.0",
+  "description": "��#\u0000 \u0000a\u0000n\u0000n\u0000a\u0000b\u0000a\u0000r\u0000r\u0000o\u0000s\u0000f\u0000\r\u0000 \u0000",
+  "main": "src/index.js",
+  "scripts": {
+    "ci": "echo \"ci\" && exit 0",
+
+    "cd": "echo \"cd\" && exit 0",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annabarrosf/annabarrosf.git"
+  },
+  "author": "Anna Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annabarrosf/annabarrosf/issues"
+  },
+  "homepage": "https://github.com/annabarrosf/annabarrosf#readme"
+}
